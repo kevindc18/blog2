@@ -1,0 +1,17 @@
+commit 400ae6337058df5a2f2ea5f472d5d156b5826b42
+Author: kevin <kevin18_dc@outlook.comgit config --global user.email kevin18_dc@outlook.comgit config --global user.email kevin18_dc@outlook.com>
+Date:   Tue Dec 13 23:57:19 2016 -0430
+
+    Agregue un html
+
+commit 3900375084984230179d28321acb6ba6434fde61
+Author: kevin <kevin18_dc@outlook.comgit config --global user.email kevin18_dc@outlook.comgit config --global user.email kevin18_dc@outlook.com>
+Date:   Tue Dec 13 23:55:04 2016 -0430
+
+    Cambio de background
+
+commit 636802360ea10326ef2e641682621f487afe42c8
+Author: kevin <kevin18_dc@outlook.comgit config --global user.email kevin18_dc@outlook.comgit config --global user.email kevin18_dc@outlook.com>
+Date:   Tue Dec 13 23:48:57 2016 -0430
+
+    iniciamos
